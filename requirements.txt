@@ -1,2 +1,6 @@
-polars
 ipykernel
+matplotlib
+polars
+pyarrow
+seaborn
+statsmodels
